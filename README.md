@@ -7,18 +7,18 @@ This repo was created only the job opopportunity <b>DevOps Engineer</b>
 Upon the opportunity I decided to create a scenario for all challenges :
 
 <p>[DevOps Engineer-].(https://github.com/cervejaria-ambev/DevOps_Challenges/blob/master/devops.md)</p>
-<p>[DBA -].(https://github.com/cervejaria-ambev/DevOps_Challenges/blob/master/dbre.md)</p>
-<p>[SRE -].(https://github.com/cervejaria-ambev/DevOps_Challenges/blob/master/sre.md)</p>
-<p>[DevSecOps Engineer -](https://github.com/cervejaria-ambev/DevOps_Challenges/blob/master/devsecops.md)</p>
+
+
+
+
+
+
+
+
+<br>[DevOps Engineer](https://github.com/cervejaria-ambev/DevOps_Challenges/blob/master/devops.md)</br>
+[DBA](https://github.com/cervejaria-ambev/DevOps_Challenges/blob/master/dbre.md)
+<br>[SRE](https://github.com/cervejaria-ambev/DevOps_Challenges/blob/master/sre.md)</br>
+[DevSecOps Engineer](https://github.com/cervejaria-ambev/DevOps_Challenges/blob/master/devsecops.md)</br>
 
 #The Original Challenge Repo:
-].https://github.com/cervejaria-ambev/DevOps_Challenges/)
-
-
-
-
-<br>[DevOps Engineer](http://exemplo.com/)</br>
-[DBA](http://exemplo.com/)
-<br>[SRE](http://exemplo.com/)</br>
-[DevSecOps Engineer](http://exemplo.com/)</br>
 <br>[AMBEV-DevOps_Challenges](https://github.com/cervejaria-ambev/DevOps_Challenges/)</br>
