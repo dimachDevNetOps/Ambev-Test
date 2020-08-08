@@ -19,7 +19,7 @@ This repo was created only the job opopportunity <b>DevOps Engineer</b>
 
 # 1º Architecture Design - DevOps Engineer
 
-<span>&#10042;</span>  Drawn Architecture Design
+<span>&#10042;</span>  <p>Drawn Architecture Design</p>
 
 
 # 2º Architecture Design - DBA
