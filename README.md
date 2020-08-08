@@ -11,7 +11,7 @@ This repo was created only with the propose to answer the test challege for the 
 •	[AMBEV-DevOps_Challenges](https://github.com/cervejaria-ambev/DevOps_Challenges/)
 
 # The Challenges:
-<br>•	[DevOps Engineer](https://github.com/cervejaria-ambev/DevOps_Challenges/blob/master/devops.md)</br>
+•	[DevOps Engineer](https://github.com/cervejaria-ambev/DevOps_Challenges/blob/master/devops.md)
 •	[DBA](https://github.com/cervejaria-ambev/DevOps_Challenges/blob/master/dbre.md)
 <br>•	[SRE](https://github.com/cervejaria-ambev/DevOps_Challenges/blob/master/sre.md)</br>
 •	[DevSecOps Engineer](https://github.com/cervejaria-ambev/DevOps_Challenges/blob/master/devsecops.md)</br>
