@@ -4,8 +4,8 @@ Hello I'm Diego Machado and I created this Repository to answer all Ambev DevOps
 # Propose:
 
 This repo was created only the job opopportunity <b>DevOps Engineer</b>
-<br>Upon the opportunity I decided to create a scenario for all challenges</br>
-
+<br>Upon the opportunity I decided to create a scenario for each one of all the challenges</br>
+ 
 # The Original Challenge Repo:
 •	[AMBEV-DevOps_Challenges](https://github.com/cervejaria-ambev/DevOps_Challenges/)
 
