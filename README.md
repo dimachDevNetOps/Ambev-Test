@@ -21,7 +21,8 @@ This repo was created only the job opopportunity <b>DevOps Engineer</b>
 
 <span>&#10042;</span>  Architecture Drawing :
 
-https://app.cloudskew.com/viewer/705e048b-18d5-42df-a439-909b0a033501
+
+[![CloudSkew](https://app.cloudskew.com/viewer/705e048b-18d5-42df-a439-909b0a033501)](https://www.cloudskew.com/)
 
 
 # 2º Architecture Design - DBA
