@@ -21,8 +21,6 @@ This repo was created only the job opopportunity <b>DevOps Engineer</b>
 
 <span>&#10042;</span>  Architecture Drawing :
 
-
-<img src=“https://app.cloudskew.com/viewer/705e048b-18d5-42df-a439-909b0a033501” alt=“exemplo”>
 https://app.cloudskew.com/viewer/705e048b-18d5-42df-a439-909b0a033501
 
 
