@@ -17,7 +17,7 @@ AMBEV-DevOps_Challenges].https://github.com/cervejaria-ambev/DevOps_Challenges/)
 
 
 
-[DevOps Engineer](http://exemplo.com/)
+<p>[DevOps Engineer](http://exemplo.com/)</p>
 [DBA](http://exemplo.com/)
 [SRE](http://exemplo.com/)</br>
 [DevSecOps Engineer](http://exemplo.com/)
