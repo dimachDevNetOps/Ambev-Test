@@ -5,7 +5,6 @@ The professional Diego Machado created this Repository to answer all Ambev DevOp
 
 This repo was created only the job opopportunity <b>DevOps Engineer</b>
 Upon the opportunity I decided to create a scenario for all challenges :
-
 <br>•	[DevOps Engineer](https://github.com/cervejaria-ambev/DevOps_Challenges/blob/master/devops.md)</br>
 •	[DBA](https://github.com/cervejaria-ambev/DevOps_Challenges/blob/master/dbre.md)
 <br>•	[SRE](https://github.com/cervejaria-ambev/DevOps_Challenges/blob/master/sre.md)</br>
