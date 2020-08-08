@@ -12,7 +12,7 @@ Upon the opportunity I decided to create a scenario for all challenges :
 <p>[DevSecOps Engineer -](https://github.com/cervejaria-ambev/DevOps_Challenges/blob/master/devsecops.md)</p>
 
 #The Original Challenge Repo:
-AMBEV-DevOps_Challenges].https://github.com/cervejaria-ambev/DevOps_Challenges/)
+].https://github.com/cervejaria-ambev/DevOps_Challenges/)
 
 
 
@@ -20,5 +20,5 @@ AMBEV-DevOps_Challenges].https://github.com/cervejaria-ambev/DevOps_Challenges/)
 <br>[DevOps Engineer](http://exemplo.com/)</br>
 [DBA](http://exemplo.com/)
 <br>[SRE](http://exemplo.com/)</br>
-[DevSecOps Engineer](http://exemplo.com/)
-[Flex Grid](http://exemplo.com/)
+[DevSecOps Engineer](http://exemplo.com/)</br>
+<br>[AMBEV-DevOps_Challenges](https://github.com/cervejaria-ambev/DevOps_Challenges/)</br>
