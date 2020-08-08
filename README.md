@@ -14,3 +14,16 @@ This repo was created only the job opopportunity <b>DevOps Engineer</b>
 •	[DBA](https://github.com/cervejaria-ambev/DevOps_Challenges/blob/master/dbre.md)
 <br>•	[SRE](https://github.com/cervejaria-ambev/DevOps_Challenges/blob/master/sre.md)</br>
 •	[DevSecOps Engineer](https://github.com/cervejaria-ambev/DevOps_Challenges/blob/master/devsecops.md)</br>
+
+
+
+# 1º Architecture Design - DevOps Engineer
+
+
+# 2º Architecture Design - DBA
+
+
+# 3º Architecture Design - SRE
+
+
+# 4º Architecture Design - DevSecOps Engineer
