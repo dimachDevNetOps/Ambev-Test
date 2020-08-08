@@ -12,4 +12,4 @@ Upon the opportunity I decided to create a scenario for all challenges :
 •	[DevSecOps Engineer](https://github.com/cervejaria-ambev/DevOps_Challenges/blob/master/devsecops.md)</br>
 
 # The Original Challenge Repo:
-[AMBEV-DevOps_Challenges](https://github.com/cervejaria-ambev/DevOps_Challenges/)
+•	[AMBEV-DevOps_Challenges](https://github.com/cervejaria-ambev/DevOps_Challenges/)
