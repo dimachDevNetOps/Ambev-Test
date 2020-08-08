@@ -1,5 +1,5 @@
 # Ambev-DevOps.Challenges
-Hello the I'm Diego Machado and I created this Repository to answer all Ambev DevOps_Challeges! 
+Hello I'm Diego Machado and I created this Repository to answer all Ambev DevOps_Challeges! 
 
 # Propose:
 
