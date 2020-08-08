@@ -17,8 +17,8 @@ AMBEV-DevOps_Challenges].https://github.com/cervejaria-ambev/DevOps_Challenges/)
 
 
 
+<br>[DevOps Engineer](http://exemplo.com/)</br>
+<br>[DBA](http://exemplo.com/)</br>
+<br>[SRE](http://exemplo.com/)</br>
+<br>[DevSecOps Engineer](http://exemplo.com/)</br>
 <br>[Flex Grid](http://exemplo.com/)</br>
-[Flex Grid](http://exemplo.com/)
-[Flex Grid](http://exemplo.com/)
-[Flex Grid](http://exemplo.com/)
-[Flex Grid](http://exemplo.com/)
