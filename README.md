@@ -31,12 +31,16 @@ Please click in DevOps Solution to check answer for DevOps Engineer Challege:
 
 <span>&#10042;</span>  Architecture Drawing :
 
+[![CloudSkew](https://cloudskewprod.azureedge.net/assets/misc/landing-page-hero-2.jpg)](https://www.cloudskew.com/)
+
 Please click in DBA Solution to check answer for DBA Challege:
 [BDA Solution](https://github.com/dimachDevNetOps/Ambev-Test/blob/master/dbre.md)
 
 # 3º Architecture Design - SRE
 
 <span>&#10042;</span>  Architecture Drawing :
+
+[![CloudSkew](https://cloudskewprod.azureedge.net/assets/misc/landing-page-hero-2.jpg)](https://www.cloudskew.com/)
 
 Please click in SRE Solution to check answer for SRE Challege:
 [SRE Solution](https://github.com/dimachDevNetOps/Ambev-Test/blob/master/sre.md)
@@ -47,4 +51,6 @@ Please click in DevSecOps Solution to check answer for DevSecOps Challege:
 [DevSecOps Solution](https://github.com/dimachDevNetOps/Ambev-Test/blob/master/devsecops.md)
 
 <span>&#10042;</span>  Architecture Drawing :
+
+[![CloudSkew](https://cloudskewprod.azureedge.net/assets/misc/landing-page-hero-2.jpg)](https://www.cloudskew.com/)
 	
