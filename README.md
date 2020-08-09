@@ -47,10 +47,10 @@ Please click in SRE Solution to check answer for SRE Challege:
 
 # 4º Architecture Design - DevSecOps Engineer
 
-Please click in DevSecOps Solution to check answer for DevSecOps Challege:
-[DevSecOps Solution](https://github.com/dimachDevNetOps/Ambev-Test/blob/master/devsecops.md)
-
 <span>&#10042;</span>  Architecture Drawing :
 
 [![CloudSkew](https://cloudskewprod.azureedge.net/assets/misc/landing-page-hero-2.jpg)](https://www.cloudskew.com/)
+
+Please click in DevSecOps Solution to check answer for DevSecOps Challege:
+[DevSecOps Solution](https://github.com/dimachDevNetOps/Ambev-Test/blob/master/devsecops.md)
 	
