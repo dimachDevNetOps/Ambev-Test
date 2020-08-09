@@ -1,5 +1,5 @@
-<code><br>sudo apt update</br>
-sudo apt install nginx</code>  
+<code>sudo apt update
+<br>sudo apt install nginx</br></code>  
 
 
 
