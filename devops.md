@@ -1,4 +1,4 @@
-Use 'git status' para listar todos os arquivos novos ou modificados que ainda não receberam commit.
+[Contribution guidelines for this project](docs/CONTRIBUTING.md)
 
 
 Alguns comandos Git básicos são:
