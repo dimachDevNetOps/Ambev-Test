@@ -54,6 +54,6 @@ Please click in SRE Solution to check answer for SRE Challege:
 Please click in DevSecOps Solution to check answer for DevSecOps Challege:
 [DevSecOps Solution](https://github.com/dimachDevNetOps/Ambev-Test/blob/master/devsecops.md)
 	
-	
+_______________________________________________________________________________________________________________________________	
 	
 [Contribution guidelines for this project](docs/CONTRIBUTING.md)	
