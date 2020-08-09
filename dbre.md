@@ -1,113 +1,103 @@
-.. _installation:
+=====
+Usage
+=====
 
-============
-Installation
-============
+Command-Line Arguments
+----------------------
 
-.. Note:: All code examples should be run in the command line.
+.. argparse::
+   :ref: nibetaseries.cli.run.get_parser
+   :prog: nibs
+   :nodefault:
+   :nodefaultconst:
 
-There are two general options to install and run NiBetaSeries:
-either in its containerized version (Docker or Singularity) or
-manually prepared environment (Python 3.5+).
+Example Call(s)
+---------------
 
-Docker Container
-----------------
+If you want to see a full example on preparing data and running ``nibs``, see:
+:ref:`sphx_glr_auto_examples_plot_run_nibetaseries.py`.
 
-If you have administrative privileges on your workstation
-(i.e., are able to install software on your system),
-`Docker <https://docs.docker.com/install/>`_ is a great way to keep
-everything in the code environment constant/reproducible
-(not just the NiBetaSeries code).
-Once you have docker, you can download the NiBetaSeries docker image via:
+.. _example-one:
 
-::
+Example 1
+~~~~~~~~~
 
-  docker pull hbclab/nibetaseries:vX.Y.Z
+.. code-block:: bash
 
-.. Note::
+    nibs \
+    /home/james/bids/ \
+    fmriprep \
+    /home/james/bids/derivatives/betaSeries/schaefer_parcel-400_network-17 \
+    participant
+    -a /home/james/bids/derivatives/atlas/Schaefer2018_400Parcels_17Networks_order_FSLMNI152_2mm.nii.gz \
+    -l /home/james/bids/derivatives/atlas/schaefer_parcel-400_network-17.tsv \
+    -w /home/james/bids/derivatives/betaSeries/work_n17 \
+    -c WhiteMatter CSF Cosine01 Cosine02 Cosine03 Cosine04 Cosine05 Cosine06 Cosine07 \
+    --nthreads 32 \
+    --estimator lss \
+    --description-label AROMAnonaggr \
+    --hrf-model 'glover + derivative + dispersion'
 
-  *X.Y.Z* should replaced with the specific version of
-  NiBetaSeries you want to run (e.g. 0.2.3).
+In this example we have our top-level BIDS directory ``/home/james/bids``,
+and our derivatives directory ``/home/james/bids/derivatives``.
+``nibs`` currently assumes that ``derivatives`` is immediately underneath
+the top-level BIDS directory.
 
-Once the image is completely pulled, the containerized version of
-NiBetaSeries is evoked from the command line:
+- The 1st positional argument is the BIDS directory (``/home/james/bids``)
+- The 2nd positional argument is the derivatives pipeline that was used
+  to preprocess your data.
+  In this case we are using ``fmriprep``.
+- The 3rd positional argument determines where the desired output of ``nibs``
+  should go. These are the output files you will use later on for analysis.
+  Here, the directory is:
+  ``/home/james/bids/derivatives/betaSeries/schaefer_parcel-400_network-17``
+- The 4th positional argument specifies whether we are running participant-
+  or group-level analyses; since group-level analyses are not yet implemented,
+  ``participant`` is the only option.
+- Within the derivatives directory, we have the atlas (``-a``) and
+  lookup table (``-l``) in an atlas directory.
+  The atlas is in MNI space and the look up table has a row per unique parcel
+  in the atlas.
+- The work directory (``-w``) specifies where all the intermediate outputs
+  go; these are useful for making sure ``nibs`` ran correctly,
+  but are not necessary to keep after you are reasonably confident
+  ``nibs`` worked as expected.
+- The confounds (``-c``) we select are column names from the ``*_confounds.tsv`` file.
+  See the `fmriprep documentation
+  <https://fmriprep.readthedocs.io/en/stable/outputs.html#confounds>`_ on confounds for details.
+- ``--nthreads`` tells us across how many thread to parallelize ``nibs``; in this
+  example we use 32 threads!
+- ``--estimator`` tells us we are using ``lss`` or Least Squares Separate for
+  the generation of the betas.
+- If there were multiple types of derivatives output from a preprocessing
+  application (like ``fmriprep``), you may only be interested in analyzing
+  one variant; in this scenerio, we are only interested in analyzing images denoised
+  by ``ICA-AROMA``, denoted by ``--description-label``.
+- The HRF model argument (``--hrf-model``) passes all the available options
+  from `nistats <https://nistats.github.io/index.html>`_.
 
-::
+.. _example-two:
 
-  docker run -it --rm -v /path/to/bids_dir:/bids_dir \
-                       -v /path/to/output_dir:/out_dir  \
-                       -v /path/to/work_dir:/work_dir \
-                       HBClab/nibetaseries:<version> \
-                       nibs -c WhiteMatter CSF \
-                             --participant-label 001 \
-                             -w {work_dir} \
-                             -a {atlas_mni_file} \
-                             -l {atlas_tsv} \
-                             {bids_dir} \
-                             fmriprep \
-                             {out_dir} \
-                             participant
+Example 2
+~~~~~~~~~
 
-Singularity Container
----------------------
+.. code-block:: bash
 
-If you do not have administrative privileges and/or are using a cluster,
-`Singularity <https://www.sylabs.io/guides/3.0/user-guide/installation.html>`_
-is a good choice to get the same benefits as Docker.
-You may have to ask your administrator to install Singularity.
-Once Singularity is installed, you can pull the NiBetaSeries image via:
+    nibs \
+    /home/james/bids/ \
+    fmriprep \
+    /home/james/bids/derivatives \
+    participant
+    --participant-label 001 \
+    -w /tmp/work \
+    -c white_matter csf cosine01 cosine02 cosine03 cosine04 cosine05 cosine06 cosine07 \
+    --nthreads 32 \
+    --estimator lsa \
+    --hrf-model 'glover'
 
-::
-
-  singularity build /path/to/image/nibetaseries-vX.Y.Z.simg docker://hbclab/nibetaseries:vX.Y.Z
-
-Once the image is completely pulled, the containerized version of
-NiBetaSeries is evoked from the command line:
-
-::
-
-  singularity run --cleanenv -B /path/to/bids_dir:/bids_dir \
-                              -B /path/to/output_dir:/out_dir  \
-                              -B /path/to/work_dir:/work_dir \
-                              path/to/image/nibetaseries-<version>.simg \
-                              nibs -c WhiteMatter CSF \
-                                    --participant-label 001 \
-                                    -w {work_dir} \
-                                    -a {atlas_mni_file} \
-                                    -l {atlas_tsv} \
-                                    {bids_dir} \
-                                    fmriprep \
-                                    {out_dir} \
-                                    participant
-
-.. Note::
-
-  The Singularity example depicted above assumes that Singularity is configured
-  in such a way that folders on your host are not automatically bound (mounted or exposed).
-  In case they are, the *-B* lines can be neglected and paths on your host should be
-  indicated regarding *-w*, *bids_dir* and *out_dir*.
-
-
-Manually prepared environment (Python 3.5+)
--------------------------------------------
-
-In order to install the NiBetaSeries Python module type the
-following in the command line:
-
-::
-
-    pip3 install "nibetaseries==X.Y.Z"
-
-Afterwards, NiBetaSeries can be run as follows from the command line:
-
-::
-
-  nibs -c WhiteMatter CSF \
-        --participant-label 001 \
-        -w {work_dir} \
-        -a {atlas_mni_file} \
-        -l {atlas_tsv} \
-        {bids_dir} \
-        fmriprep \
-        {out_dir} \
-        participant
+In this example, we are not interested in generating correlation matrices, but
+we are interested in the beta maps.
+Since the beta maps are given by default, we need remove the correlation output.
+We can remove the correlation matrix output by removing the ``-l`` and ``-a`` options.
+Another significant difference with :ref:`example-one` is the inclusion of ``--participant-label``.
+This option says we only want to run ``nibs`` on participant ``sub-001`` in the bids dataset.
