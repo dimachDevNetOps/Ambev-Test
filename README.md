@@ -39,7 +39,7 @@ Please click in DBA Solution to check answer for DBA Challege:
 <span>&#10042;</span>  Architecture Drawing :
 
 Please click in SRE Solution to check answer for SRE Challege:
-[SRE Solution](https://github.com/dimachDevNetOps/Ambev-Test/blob/master/devops.md)
+[SRE Solution](https://github.com/dimachDevNetOps/Ambev-Test/blob/master/sre.md)
 
 # 4º Architecture Design - DevSecOps Engineer
 
