@@ -1,3 +1,15 @@
+.. _readme:
+
+============
+NiBetaSeries
+============
+
+If you are viewing this file on GitHub, please see our
+`readthedocs page <https://nibetaseries.readthedocs.io>`_
+for links to render properly.
+
+.. start-badges
+
 .. list-table::
     :stub-columns: 1
 
