@@ -1,4 +1,5 @@
-<code>MArk down Code</code>  
+<code>sudo apt update
+sudo apt install nginx</code>  
 "1. First ordered list item
 2. Another item
 ⋅⋅* Unordered sub-list. 
