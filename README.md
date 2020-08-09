@@ -24,7 +24,7 @@ This repo was created only with the propose to answer the test challege for the 
 
 [![CloudSkew](https://cloudskewprod.azureedge.net/assets/misc/landing-page-hero-2.jpg)](https://www.cloudskew.com/)
 
-Please click over here to check answer for DevOps Engineer Challege:
+Please click in DevOps Solution to check answer for DevOps Engineer Challege:
 [DevOps Solution](https://github.com/dimachDevNetOps/Ambev-Test/blob/master/dbre.md)
 
 # 2º Architecture Design - DBA
