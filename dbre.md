@@ -1,4 +1,4 @@
-<code><brsudo apt update</br>
+<code><br>sudo apt update</br>
 sudo apt install nginx</code>  
 
 
