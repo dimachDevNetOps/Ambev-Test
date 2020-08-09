@@ -31,11 +31,20 @@ Please click in DevOps Solution to check answer for DevOps Engineer Challege:
 
 <span>&#10042;</span>  Architecture Drawing :
 
+Please click in DBA Solution to check answer for DBA Challege:
+[BDA Solution](https://github.com/dimachDevNetOps/Ambev-Test/blob/master/devops.md)
+
 # 3º Architecture Design - SRE
 
 <span>&#10042;</span>  Architecture Drawing :
 
+Please click in SRE Solution to check answer for SRE Challege:
+[SRE Solution](https://github.com/dimachDevNetOps/Ambev-Test/blob/master/devops.md)
+
 # 4º Architecture Design - DevSecOps Engineer
+
+Please click in DevSecOps Solution to check answer for DevSecOps Challege:
+[DevSecOps Solution](https://github.com/dimachDevNetOps/Ambev-Test/blob/master/devops.md)
 
 <span>&#10042;</span>  Architecture Drawing :
 	
