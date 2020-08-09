@@ -1,5 +1,13 @@
-<code>sudo apt update
+<code><brsudo apt update</br>
 sudo apt install nginx</code>  
+
+
+
+
+
+
+
+
 "1. First ordered list item
 2. Another item
 ⋅⋅* Unordered sub-list. 
