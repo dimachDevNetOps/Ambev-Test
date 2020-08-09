@@ -32,7 +32,7 @@ Please click in DevOps Solution to check answer for DevOps Engineer Challege:
 <span>&#10042;</span>  Architecture Drawing :
 
 Please click in DBA Solution to check answer for DBA Challege:
-[BDA Solution](https://github.com/dimachDevNetOps/Ambev-Test/blob/master/devops.md)
+[BDA Solution](https://github.com/dimachDevNetOps/Ambev-Test/blob/master/dbre.md)
 
 # 3º Architecture Design - SRE
 
