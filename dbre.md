@@ -101,3 +101,14 @@ Since the beta maps are given by default, we need remove the correlation output.
 We can remove the correlation matrix output by removing the ``-l`` and ``-a`` options.
 Another significant difference with :ref:`example-one` is the inclusion of ``--participant-label``.
 This option says we only want to run ``nibs`` on participant ``sub-001`` in the bids dataset.
+
+
+
+
+References
+----------
+
+.. bibliography:: ../src/nibetaseries/data/references.bib
+    :style: plain
+    :labelprefix: docs-
+    :keyprefix: d-
