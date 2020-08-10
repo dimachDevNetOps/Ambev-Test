@@ -1,7 +1,7 @@
 <h2 id="pré-requisitos">Implementando NGINX container usando Terraform</h2>
 
-Para encorajar Learning by doing ao invez de apenas citar comandos com Terraform neste repositorio,de forma mais dinâmica para quem esteja analisando este teste estou adicionado  uma solução de estudo da Kota<oda onde vocÊ encontrará uma ferramenta de treino e deploy em um terminal real!
-Ao meu ponto de vista é melhor forma e modelo de garantir a melhor capacidade dos profissionais de sua equipe com este tipo recurso que ensina end-end como realizar diversos tipos de deploy de soluções, para nosso caso precisamo realizar um deploy de NGINX usando terraform, então vamos fazer junto clica no link abaixo:
+Para encorajar Learning by doing ao invez de apenas citar comandos com Terraform neste repositorio, pensei e cheguei a conclusão para uma forma mais dinâmica para quem esteja analisando este teste estou adicionado uma solução de estudo da Kota<oda onde você encontrará uma ferramenta de treino e deploy em um terminal real!
+Ao meu ponto de vista é a melhor forma e modelo de garantir a melhor capacidade dos profissionais de sua equipe, com este tipo recurso que ensina end-end como realizar diversos tipos de deploy de soluções,porem exclusivamente para nosso caso proposto precisamos realizar um deploy de NGINX usando terraform, então vamos fazer junto clica no link abaixo:
 
 [Deploy NGINX container using Terraform](https://www.katacoda.com/courses/terraform/deploy-nginx)
 
