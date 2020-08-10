@@ -1,3 +1,6 @@
+<h2 id="pré-requisitos">Implementando NGINX container usando Terraform</h2>
+
+
 <h2 id="pré-requisitos">Pré-requisitos e Instalação</h2>
 
 <p>Para completar este tutorial, você precisará de acesso a uma conta na Microsoft Azure ou a um Cloud Providor de sua preferência e a um servidor Ubuntu 20.04, como um usuário <code>sudo</code> regular, não root , e um firewall habilitado em seu servidor. Para configurar isto, segue link de referencia para configuração com Microsoft Azure.
