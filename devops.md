@@ -371,7 +371,7 @@ try {
 
 <h2 id="conclusão">Conclusão</h2>
 
-<p>Neste guia, construímos uma base flexível para servir sites e aplicações PHP aos seus visitantes, usando o Nginx como servidor web e o MySQL como sistema de banco de dados.</p>
+<p>Neste guia, construímos todas soluções necessaias para o desafio e com tudo uma base flexível para servir sites e aplicações PHP aos seus visitantes, usando o Nginx como servidor web e o MySQL como sistema de banco de dados.</p>
 
 <p>Há um número de passos que você pode tomar a partir daqui. Por exemplo, certifique-se de que as conexões para seu servidor estejam seguras. Para isso, você pode <a href="https://www.digitalocean.com/community/tutorials/how-to-secure-nginx-with-let-s-encrypt-on-ubuntu-20-04">proteger sua instalação Nginx com o Let&rsquo;s Encrypt</a>. Ao seguir este guia, você receberá um certificado TLS/SSL gratuito para seu servidor, permitindo que apresente conteúdo em HTTPS.</p>
   </body>
