@@ -377,41 +377,6 @@ try {
   </body>
 </html>
 
+Muito Obrigado por está oportunidade de guia-os atraves desde tutorial para criação de recusos para este desafio!
 
-
-
-
-
-[Contribution guidelines for this project](docs/CONTRIBUTING.md)
-
-
-Alguns comandos Git básicos são:
-```
-git status
-git add
-git commit
-Git error
-shibiu crazy
-```
-
-Alguns comandos Git básicos são:
-```
-git status
-git add
-git commit
-```
-
-
-Alguns comandos Git básicos são:
-```
-git status
-git add
-git commit
-```
-
-Alguns comandos Git básicos são:
-```
-git status
-git add
-git commit
-```
+Diego Machado
