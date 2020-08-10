@@ -56,4 +56,4 @@ Please click in DevSecOps Solution to check answer for DevSecOps Challege:
 	
 _______________________________________________________________________________________________________________________________	
 	
-[Contribution guidelines for this project](docs/CONTRIBUTING.md)	
+[Professional Profile of the Contribution for this Challenge](https://www.linkedin.com/in/%E2%98%81-diego-machado-%E2%88%9E-06355969/)	
