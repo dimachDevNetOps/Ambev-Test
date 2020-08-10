@@ -1,11 +1,11 @@
 <h2 id="pré-requisitos">Implementando NGINX container usando Terraform</h2>
 
-Para encorajar Learning by doing o user que esta analisando esse documento estou adicionado da Kota<oda encontrará uma ferramenta de treino e deploy em um terminal real!
-Ao meu ponto de vista é melhor forma e modelo de garatir a melhor capacidade dos profissionais de sua equipe com este tipo recurso que ensina end-end como realizar diveroso tipos de deploy de soluções.
+Para encorajar Learning by doing ao invez de apenas citar comandos com Terraform neste repositorio,de forma mais dinâmica para quem esteja analisando este teste estou adicionado  uma solução de estudo da Kota<oda onde vocÊ encontrará uma ferramenta de treino e deploy em um terminal real!
+Ao meu ponto de vista é melhor forma e modelo de garantir a melhor capacidade dos profissionais de sua equipe com este tipo recurso que ensina end-end como realizar diversos tipos de deploy de soluções, para nosso caso precisamo realizar um deploy de NGINX usando terraform, então vamos fazer junto clica no link abaixo:
 
 [Deploy NGINX container using Terraform](https://www.katacoda.com/courses/terraform/deploy-nginx)
 
-<h2 id="pré-requisitos">Pré-requisitos e Instalação</h2>
+<h2 id="pré-requisitos">Pré-requisitos e Instalação servidor Web Nginx com PHP e servidor MySQL </h2>
 
 <p>Para completar este tutorial, você precisará de acesso a uma conta na Microsoft Azure ou a um Cloud Providor de sua preferência e a um servidor Ubuntu 20.04, como um usuário <code>sudo</code> regular, não root , e um firewall habilitado em seu servidor. Para configurar isto, segue link de referencia para configuração com Microsoft Azure.
   
@@ -376,8 +376,6 @@ try {
 <p>Há um número de passos que você pode tomar a partir daqui. Por exemplo, certifique-se de que as conexões para seu servidor estejam seguras. Para isso, você pode <a href="https://www.digitalocean.com/community/tutorials/how-to-secure-nginx-with-let-s-encrypt-on-ubuntu-20-04">proteger sua instalação Nginx com o Let&rsquo;s Encrypt</a>. Ao seguir este guia, você receberá um certificado TLS/SSL gratuito para seu servidor, permitindo que apresente conteúdo em HTTPS.</p>
   </body>
 </html>
-
-
 
 
 
