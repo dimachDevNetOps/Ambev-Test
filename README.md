@@ -22,7 +22,7 @@ This repo was created only with the propose to answer the test challege for the 
 
 <span>&#10042;</span>  Architecture Drawing :
 
-Design Drawing Over the Challege to DevOps Engineer is linked over this Images bellow just click to check the architecture!
+Design Drawing Over the Challege to DevOps Engineer is linked over this Images bellow just click into the image to check the architecture!
 
 Explanation of the Sructure Presented :
 
