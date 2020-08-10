@@ -35,7 +35,7 @@ Explanation of the Sructure Presented :
 
 # Explanation
 
-This list above would one of solution that will use for this challege, first Scale Set can support up to 1,000 VMs when you use an Azure platform image or VM customization requirements, you may wish. You can create up to 300 VMs in a scale set when using a custom image. This solution will helps at peak times, when the disc is widely used degrading the performance  issues mention in the Challenge, I definitely inclued as well scale set with data disks, reates a scale set with 50Gb data disks attached to each instance, instead only 30 gb as was mention in the test, also only to give more performance.
+This list above would be one of solution that will use for this challege, first Scale Set can support up to 1,000 VMs when you use an Azure platform image or VM customization requirements, you may wish. You can create up to 300 VMs in a scale set when using a custom image. This solution will helps at peak times, when the disc is widely used degrading the performance  issues mention in the Challenge, I definitely inclued as well scale set with data disks, reates a scale set with 50Gb data disks attached to each instance, instead only 30 gb as was mention in the test, also only to give more performance.
 
 
 [![CloudSkew](https://cloudskewprod.azureedge.net/assets/misc/landing-page-hero-2.jpg)](https://app.cloudskew.com/viewer/705e048b-18d5-42df-a439-909b0a033501)
