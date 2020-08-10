@@ -27,7 +27,7 @@ Design Drawing Over the Challege to DevOps Engineer is linked over this Images b
 Explanation of the sSructure Presented :
 
 • Use cloud-init to create an app to scale 
-'''#cloud-config
+"#cloud-config
 package_upgrade: true
 packages:
   - nginx
@@ -65,7 +65,7 @@ runcmd:
   - cd "/home/azureuser/myapp"
   - npm init
   - npm install express -y
-  - nodejs index.js' '''
+  - nodejs index.js"
 • Create a virtual machine scale set
 • Increase or decrease the number of instances in a scale set
 • Create autoscale rules
