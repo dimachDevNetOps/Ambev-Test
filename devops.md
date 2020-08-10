@@ -1,5 +1,9 @@
 <h2 id="pré-requisitos">Implementando NGINX container usando Terraform</h2>
 
+Para encorajar Learning by doing o user que esta analisando esse documento estou adicionado da Kota<oda encontrará uma ferramenta de treino e deploy em um terminal real!
+Ao meu ponto de vista é melhor forma e modelo de garatir a melhor capacidade dos profissionais de sua equipe com este tipo recurso que ensina end-end como realizar diveroso tipos de deploy de soluções.
+
+[Deploy NGINX container using Terraform](https://www.katacoda.com/courses/terraform/deploy-nginx)
 
 <h2 id="pré-requisitos">Pré-requisitos e Instalação</h2>
 
