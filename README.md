@@ -26,11 +26,11 @@ Design Drawing Over the Challege to DevOps Engineer is linked over this Images b
 
 Explanation of the Sructure Presented :
 
-• Use cloud-init to create an app to scale 
+<br>• Use cloud-init to create an app to scale</br> 
 • Create a virtual machine scale set
-• Fixed configuration to increase or decrease the number of instances in a scale set
+<br>• Fixed configuration to increase or decrease the number of instances in a scale set</br> 
 • Create autoscale rules
-• View connection info for scale set instances
+<br>• View connection info for scale set instances</br> 
 • Use data disks in a scale set
 
 # Explanation
