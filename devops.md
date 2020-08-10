@@ -1,6 +1,7 @@
 <h2 id="pré-requisitos">Pré-requisitos e Instalação</h2>
 
-<p>Para completar este tutorial, você precisará de acesso a uma conta na Microsoft Azure ou a um Cloud Providor de sua preferência e a um servidor Ubuntu 20.04, como um usuário <code>sudo</code> regular, não root , e um firewall habilitado em seu servidor. Para configurar isto, segue link de referencia para configuração com Microsoft [Azure-Quickstart: Create a Linux virtual machine in the Azure portal](https://docs.microsoft.com/en-us/azure/virtual-machines/linux/quick-create-portal)
+<p>Para completar este tutorial, você precisará de acesso a uma conta na Microsoft Azure ou a um Cloud Providor de sua preferência e a um servidor Ubuntu 20.04, como um usuário <code>sudo</code> regular, não root , e um firewall habilitado em seu servidor. Para configurar isto, segue link de referencia para configuração com Microsoft 
+  [Azure-Quickstart: Create a Linux virtual machine in the Azure portal](https://docs.microsoft.com/en-us/azure/virtual-machines/linux/quick-create-portal)
   
 
 <h2 id="passo-1-—-como-instalar-o-servidor-web-nginx">Passo 1 — Como instalar o servidor Web Nginx</h2>
