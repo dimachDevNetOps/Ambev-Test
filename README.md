@@ -41,7 +41,7 @@ This list above would one of solution that will use for this challege, first Sca
 [![CloudSkew](https://cloudskewprod.azureedge.net/assets/misc/landing-page-hero-2.jpg)](https://app.cloudskew.com/viewer/705e048b-18d5-42df-a439-909b0a033501)
 
 
-Please click in DevOps Solution to check answer for DevOps Engineer Challege:
+Please click in DevOps Solution to check configuration answer for DevOps Engineer Challege:
 [DevOps Solution](https://github.com/dimachDevNetOps/Ambev-Test/blob/master/devops.md)
 
 # 2º Architecture Design Drawing - DBA (Not Started)
