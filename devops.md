@@ -377,6 +377,6 @@ try {
   </body>
 </html>
 
-Muito Obrigado por está oportunidade de guia-os atraves desde tutorial para criação de recusos para este desafio!
+Muito Obrigado por está oportunidade de guia-os atraves desde tutorial para criação de recursos para este desafio!
 
 Diego Machado
