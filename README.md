@@ -18,7 +18,7 @@ This repo was created only with the propose to answer the test challege for the 
 
 
 
-# 1º Architecture Design - DevOps Engineer
+# 1º Architecture Design Drawing - DevOps Engineer
 
 <span>&#10042;</span>  Architecture Drawing :
 
@@ -27,7 +27,7 @@ This repo was created only with the propose to answer the test challege for the 
 Please click in DevOps Solution to check answer for DevOps Engineer Challege:
 [DevOps Solution](https://github.com/dimachDevNetOps/Ambev-Test/blob/master/devops.md)
 
-# 2º Architecture Design - DBA (Not Started)
+# 2º Architecture Design Drawing - DBA (Not Started)
 
 <span>&#10042;</span>  Architecture Drawing :
 
@@ -36,7 +36,7 @@ Please click in DevOps Solution to check answer for DevOps Engineer Challege:
 Please click in DBA Solution to check answer for DBA Challege:
 [DBA Solution](https://github.com/dimachDevNetOps/Ambev-Test/blob/master/dbre.md)
 
-# 3º Architecture Design - SRE (Not Started)
+# 3º Architecture Design Drawing - SRE (Not Started)
 
 <span>&#10042;</span>  Architecture Drawing :
 
@@ -45,7 +45,7 @@ Please click in DBA Solution to check answer for DBA Challege:
 Please click in SRE Solution to check answer for SRE Challege:
 [SRE Solution](https://github.com/dimachDevNetOps/Ambev-Test/blob/master/sre.md)
 
-# 4º Architecture Design - DevSecOps Engineer (Not Started)
+# 4º Architecture Design Drawing - DevSecOps Engineer (Not Started)
 
 <span>&#10042;</span>  Architecture Drawing :
 
