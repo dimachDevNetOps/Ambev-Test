@@ -34,7 +34,7 @@ Please click in DevOps Solution to check answer for DevOps Engineer Challege:
 [![CloudSkew](https://cloudskewprod.azureedge.net/assets/misc/landing-page-hero-2.jpg)](https://www.cloudskew.com/)
 
 Please click in DBA Solution to check answer for DBA Challege:
-[BDA Solution](https://github.com/dimachDevNetOps/Ambev-Test/blob/master/dbre.md)
+[DBA Solution](https://github.com/dimachDevNetOps/Ambev-Test/blob/master/dbre.md)
 
 # 3º Architecture Design - SRE (Not Started)
 
